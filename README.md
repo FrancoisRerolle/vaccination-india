@@ -47,7 +47,7 @@ To reproduce all analyses in the paper, we recommend that you:
 
 2. Create a `data` directory with 2 subdirectories: `untouched` and `final`.
 
-3. In the `data/untouched` directory copy and paste repository from OSF: https://osf.io/ubehn/files/osfstorage
+3. In the `data/untouched` directory copy and paste repository from OSF: https://osf.io/ubehn/
 
 4. In the `data/untouched/dhs` directory paste downloaded DHS data. You should have 2 subdirectories: `IAGE7AFL` and `IAKR7EDT`
 
