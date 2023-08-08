@@ -15,7 +15,7 @@ Should you have any questions about the files in this repository, please contact
 
 ### Open Science Framework 
 
-All data used in the analysis is publicly available but access must be granted by the DHS program for the population surveys conducted in India (2019-2021). When requesting data, include GPS coordinates and spatial covariates data. The other data are deposited on OSF: https://osf.io/vrfmz/
+All data used in the analysis is publicly available but access must be granted by the DHS program for the population surveys conducted in India (2019-2021). When requesting data, include GPS coordinates and spatial covariates data. The other data are deposited on OSF: https://osf.io/ubehn/
 
 ### System Requirements
 
@@ -24,7 +24,9 @@ All analyses were run using R software version 4.1.1 on Mac OSX Big Sur using th
 > sessionInfo()
 
 R version 4.3.0 (2023-04-21)
+
 Platform: x86_64-apple-darwin20 (64-bit)
+
 Running under: macOS Ventura 13.4
 
 ### Installation Guide
@@ -45,7 +47,7 @@ To reproduce all analyses in the paper, we recommend that you:
 
 2. Create a `data` directory with 2 subdirectories: `untouched` and `final`.
 
-3. In the `data/untouched` directory copy and paste repository from OSF: https://osf.io/vrfmz/files/osfstorage
+3. In the `data/untouched` directory copy and paste repository from OSF: https://osf.io/ubehn/files/osfstorage
 
 4. In the `data/untouched/dhs` directory paste downloaded DHS data. You should have 2 subdirectories: `IAGE7AFL` and `IAKR7EDT`
 
