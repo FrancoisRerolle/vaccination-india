@@ -1,0 +1,47 @@
+#-------------------------------------------------------------------------------
+# @Organization - UCSF
+# @Project - Integrated vaccination campaigns
+# @Author - Francois Rerolle, rerollefrancois@gmail.com
+# @Description - This file is responsible for loading packages
+#-------------------------------------------------------------------------------
+
+# Load packages
+library(here)
+library(haven)
+library(tidyverse)
+library(readr)
+library(ggplot2)
+library(sf)
+library(raster)
+library(leaflet)
+library(Polychrome)
+library(gsynth)
+library(MatchIt)
+library(MODISTools)
+library(chirps)
+library(mgcv)
+library(rdhs)
+library(randomForest)
+library(cobalt)
+library(meta)
+library(lmtest)
+library(sandwich)
+library(boot)
+library(survival)
+library(labelled)
+library(raster)
+library(sp)
+library(rgdal)
+library(rasterVis)
+library(RColorBrewer)
+library(viridis)
+library(maptools)
+library(scales)
+library(rgeos)
+library(table1)
+library(Hmisc)
+library(spatstat)
+library(spdep)
+library(ellipse)
+library(ggpubr)
+library(units)
